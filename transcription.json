@@ -1,0 +1,3987 @@
+{
+  "metadata": {
+    "title": "見宜翁醫按",
+    "catalogue_title": "習醫規格（合綴：見宜翁醫按）",
+    "roman_title": "Kengiō ian",
+    "author": "松下見林",
+    "date": "末葉記天和癸亥（1683）十月於東都冷泉撰成，寶曆九年（1759）十一月求板。",
+    "location": "日本京都",
+    "repository": "京都大學附屬圖書館",
+    "repository_en": "Main Library, Kyoto University",
+    "collection": "富士川文庫",
+    "shelfmark": "シ/124",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00002935",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "松下見林以漢文記古林見宜（正溫）的家世、行醫、授徒及著述。本篇題名見館方第17幅左面，至第47幅右面刊記止。第48幅右面是同末葉重拍。同冊前編《習醫規格》及書衣只保留來源定位。原有圈點以「。」轉寫；細小片假名與返點未逐符號轉錄。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002935/manifest.json",
+    "manifest_sha256": "31e614603a9eba10addd5a5e2871e57668a140ff302761dc35afcc8071e6a1d3",
+    "record_id": "RB00002935",
+    "edition": "0.1.0",
+    "catalogue_main_scope": null,
+    "version": "0.1.0",
+    "dataset_title": "見宜翁醫按（1759 年求板，京都大學 シ/124） / Kengiō ian [Medical accounts of Master Kengiō]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "d34bf6d22a6eadd1df71dbb4900a77fcce76299bb360d0c222173f6b540d613c",
+      "bytes": 200750,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-binding",
+      "state": "out-of-scope-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "43292d865c827039bef9e50ba72be08cbd5f79da942301710dc5347e088c8083",
+      "bytes": 242191,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-binding",
+      "state": "out-of-scope-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "31740e74123ce6c9f7bbb10244cca29ca179ab480873958f45901e7de824bead",
+      "bytes": 239190,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-binding",
+      "state": "out-of-scope-binding"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "a562eedbe9696048c248a077805794d53f120aad186002a43cb7a3615e2f0b75",
+      "bytes": 276090,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "dd982d978e33bc7b9f2421702b9701723df88984d848d01d91ecbb6997401f5f",
+      "bytes": 398395,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "29f757719937c66958d62ebd3ba98d735ff757129dc8e97d86deb09463757f29",
+      "bytes": 366208,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "3b1b7367803f46377d088034dbf7e9502e4dd10cd752366ffc23fe69dd632a24",
+      "bytes": 344007,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "dca30c8612826bdc8d3201cf7b506ff1b513e1b8d4e3f3faa1ef7e485aafb26f",
+      "bytes": 320227,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "f2146b063018ca17d6edf9fc08d8b2c2e9c2c3b1e9505923616b27656dbf61a1",
+      "bytes": 326194,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p10",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00010_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "file": "10.jpg",
+      "sha256": "be7d1cd9e6e7a6cd1c031ce7c4072a324c9d355b9aa49c3efe874510ab37d7ce",
+      "bytes": 327814,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p11",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00011_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "file": "11.jpg",
+      "sha256": "f2daa0a42828f318461c73a530bb5feb84b904ac964744077acba8e83cd6b62c",
+      "bytes": 336694,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p12",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00012_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "file": "12.jpg",
+      "sha256": "90c2891f8d2f6d5ef15a4785d8b63f0de47e89735a9570a2faf714f8c8272556",
+      "bytes": 322473,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p13",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00013_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "file": "13.jpg",
+      "sha256": "f5a351ed99a96bc7c276c061a4612cb9727663b1aeb5ee6ae1628f648019fdd4",
+      "bytes": 243641,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p14",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00014_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "file": "14.jpg",
+      "sha256": "fcc4bfcbc480764587961407cdfa28919bf09fdd73dfdb9b27b3d21601c662ef",
+      "bytes": 269594,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p15",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00015_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "file": "15.jpg",
+      "sha256": "4016ce14f8444879a8968ec38c84bce1a6bd64284ff04d627c5abb5da11d0347",
+      "bytes": 266643,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p16",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00016_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "file": "16.jpg",
+      "sha256": "922dcd3c83f83fd627141128194ead3493c10229de5a7457382530c4a9084cac",
+      "bytes": 269138,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-companion",
+      "state": "out-of-scope-companion"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p17",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00017_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "17"
+        ]
+      },
+      "file": "17.jpg",
+      "sha256": "f80ec5289b5431d34a713074d5b5d8b0ba942b0881fd062fd3cdea33491392b0",
+      "bytes": 280481,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "text-boundary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [],
+          "role": "out-of-scope-companion"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "見宜翁醫按",
+              "role": "title"
+            },
+            {
+              "text": "門人　松下見林撰",
+              "role": "author-line"
+            },
+            {
+              "text": "見宜堂正溫先生者播州飾磨郡人姓源"
+            },
+            {
+              "text": "氏。其先出自二品中書令具平親王。親王"
+            },
+            {
+              "text": "有和漢才。所謂後中書王是也。華胄遙遙"
+            },
+            {
+              "text": "積行累功以有爵土。十七世而至赤松則"
+            },
+            {
+              "text": "村。則村爲人魁偉最長武事。行軍用兵髣"
+            },
+            {
+              "text": "髴孫吳。祝髮法名月潭圓心。元弘年中"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "正溫",
+          "candidates": [],
+          "note": "名字「正溫」「具平」「則村」列首輪回圖定位"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "具平",
+          "candidates": [],
+          "note": "名字「正溫」「具平」「則村」列首輪回圖定位"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "則村",
+          "candidates": [],
+          "note": "名字「正溫」「具平」「則村」列首輪回圖定位"
+        }
+      ],
+      "observations": "右面：本面正文明確接續前編，含「寛文八年八月既望」「松下見林題」，另作底本範圍記錄。左面：左頁版心與字側片假名、返點另有文字。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p18",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00018_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "18"
+        ]
+      },
+      "file": "18.jpg",
+      "sha256": "cb3429210c19ad8997f623b328444b050d415b1b27bae8a6b339d86a4922add4",
+      "bytes": 332094,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "朝廷有東征事。時圓心奉護良親王命作"
+            },
+            {
+              "text": "兵屢與六波羅戰勇功居多。北條誅鋤天"
+            },
+            {
+              "text": "下歸平安宮。然世多亂賊爭能伐功。加之"
+            },
+            {
+              "text": "以覆邦家者。故天下又大亂。於是圓心屬"
+            },
+            {
+              "text": "足利尊氏領播州。有五子並據州郡。第二"
+            },
+            {
+              "text": "之子氏則。有義氣旅力過人。以白眉稱世。"
+            },
+            {
+              "text": "仕至彈正少弼。文和二年六月九日。屬吉"
+            },
+            {
+              "text": "野拒足利義詮於北白河今路與長山氏"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／一"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "相鬪。長山持鉞。氏則欲奪之。長山亦非綿"
+            },
+            {
+              "text": "力。故鉞柄半折。氏則遂得大勝。延文三年"
+            },
+            {
+              "text": "二月十五日之役。氏則家臣小牧氏蒙疵"
+            },
+            {
+              "text": "不進。敵將斬之。氏則不忍視之。下馬提小"
+            },
+            {
+              "text": "牧投于城戶中。亦手奮長劍以逐強敵。於"
+            },
+            {
+              "text": "是衆潰亡。五年四月護良親王皇子爲元"
+            },
+            {
+              "text": "帥。氏則副之。舉兵北征。皇子會坐不敬。禍"
+            },
+            {
+              "text": "將及氏則。於是氏則逃歸播州。時人無不"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "誅鋤",
+          "candidates": [],
+          "note": "第二欄「誅鋤」、第八欄「今路」待核"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "今路",
+          "candidates": [],
+          "note": "第二欄「誅鋤」、第八欄「今路」待核"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "鉞",
+          "candidates": [],
+          "note": "左頁「鉞」「小牧」「疵」待核，字側訓點另記"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "小牧",
+          "candidates": [],
+          "note": "左頁「鉞」「小牧」「疵」待核，字側訓點另記"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "疵",
+          "candidates": [],
+          "note": "左頁「鉞」「小牧」「疵」待核，字側訓點另記"
+        }
+      ],
+      "observations": "右面：右頁字側訓點另記。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p19",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00019_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "19"
+        ]
+      },
+      "file": "19.jpg",
+      "sha256": "0edc972baaabcb44023fe45201003c04f4947342432d0a062988e02a1b511cee",
+      "bytes": 332500,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "惜之。氏則生氏春。小字孫四郎。亦號次郎"
+            },
+            {
+              "text": "左衛門尉。伯父權律師則祐養以爲子。其"
+            },
+            {
+              "text": "後有故自殺。法名殊慶松勝。年三十有四。"
+            },
+            {
+              "text": "氏春生則春。號孫四郎。則春無子。故養左"
+            },
+            {
+              "text": "馬助則繁之子繁廣以爲子。則繁者則祐"
+            },
+            {
+              "text": "嫡子上總別駕義則之子也。乃則春與則"
+            },
+            {
+              "text": "繁爲再從兄弟。繁廣任遠江守。生則廣。則"
+            },
+            {
+              "text": "廣任遠江守。生繁村。繁村任遠江守。生祐"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "村。祐村任加賀守。自氏則反國。天倫各安"
+            },
+            {
+              "text": "其居。子孫保之。世家榛木所生之地。及足"
+            },
+            {
+              "text": "利之衰。壞亂極矣。氏則苗裔稍淪喪。由是"
+            },
+            {
+              "text": "祐村擇矢人函人之所以易心。將行醫術"
+            },
+            {
+              "text": "以活人。嘗渡海入朱氏朝。學炎黃之道。治"
+            },
+            {
+              "text": "法往往奇中。及其解纜泛東溟。西皇帝賜"
+            },
+            {
+              "text": "蜀錦。五綵相宜。瑩心輝目。織成禁力。今祕"
+            },
+            {
+              "text": "傳錦袋子是也。榮歸之後醫道盛行矣後"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／三"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "氏則",
+          "candidates": [],
+          "note": "「氏則」「氏春」「則春」待核"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "氏春",
+          "candidates": [],
+          "note": "「氏則」「氏春」「則春」待核"
+        },
+        {
+          "side": "right",
+          "column": null,
+          "context": "則春",
+          "candidates": [],
+          "note": "「氏則」「氏春」「則春」待核"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "擇",
+          "candidates": [],
+          "note": "「擇」「禁力」待核，字側訓點附圖"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "禁力",
+          "candidates": [],
+          "note": "「擇」「禁力」待核，字側訓點附圖"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p20",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00020_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "20"
+        ]
+      },
+      "file": "20.jpg",
+      "sha256": "4576555cf1aaa1a015944792c18ea1b71a91979a8522f7d1982b26ff15e4aa6b",
+      "bytes": 334157,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "號耕菴以壽終。祐村生□菴本秀居士。居"
+            },
+            {
+              "text": "士通運氣曆數而工於醫。從州民之請救"
+            },
+            {
+              "text": "沈痾。其效如神。文祿三年四月二十九日"
+            },
+            {
+              "text": "卒。歲五十有九。居士生先生。即氏則九世"
+            },
+            {
+              "text": "之孫也。先生初名道芥。後更名正溫。號見"
+            },
+            {
+              "text": "宜堂桂菴壽仙坊皆別號也。自幼頴特識"
+            },
+            {
+              "text": "卓理融。稟過庭之訓。亦從釋師養學儒書"
+            },
+            {
+              "text": "及壯入洛請益有德。寓建仁禪寺泝和丹"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／三"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "兩流。聞我　朝扁鵲之風。讀本草內經病"
+            },
+            {
+              "text": "源千金局方等諸書。兼就享德院正純爲"
+            },
+            {
+              "text": "丹溪朱氏之學。遂參考張仲景劉守眞李"
+            },
+            {
+              "text": "明之三家。研精覃思。所向莫不中肯綮堀"
+            },
+            {
+              "text": "正意妙齡志醫。師事正純講內經註。發"
+            },
+            {
+              "text": "微。先是讀素問者用王氏。自此翕然宗馬"
+            },
+            {
+              "text": "氏。其後正意入藤欽夫先生之門。以儒知"
+            },
+            {
+              "text": "名。與先生相善。二人嘗於城西嵯峨建學"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／四"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "□",
+          "candidates": [],
+          "note": "此直欄有未定字。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "泝",
+          "candidates": [],
+          "note": "第一欄本秀號及末欄「泝」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "享德院",
+          "candidates": [],
+          "note": "「享德院」「肯綮」「堀正意」「藤欽夫」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "肯綮",
+          "candidates": [],
+          "note": "「享德院」「肯綮」「堀正意」「藤欽夫」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "堀正意",
+          "candidates": [],
+          "note": "「享德院」「肯綮」「堀正意」「藤欽夫」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "藤欽夫",
+          "candidates": [],
+          "note": "「享德院」「肯綮」「堀正意」「藤欽夫」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p21",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00021_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "21"
+        ]
+      },
+      "file": "21.jpg",
+      "sha256": "5d49e8c23dd9bce4b6345b2c096a402572cd1207e14a060897943641a584fd3e",
+      "bytes": 330656,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "舍。四方學者雲集。二人孜孜誘掖。時有媢"
+            },
+            {
+              "text": "疾之者。半途而止。正意去仕尾州亞相。先"
+            },
+            {
+              "text": "生旋反桑梓。建言郡守。起茅舍施藥。二年"
+            },
+            {
+              "text": "遠近病者羣集。全活者不能勝數矣。遺愛"
+            },
+            {
+              "text": "到于今稱之。先生嘗閱醫學入門。以爲夫"
+            },
+            {
+              "text": "醫學廣大閎博。若無津涯。故李梴懼不知"
+            },
+            {
+              "text": "所入。因掇取其急切者以纂之。初學得此"
+            },
+            {
+              "text": "而玩心焉。亦足以得其門而入矣。醫道廢"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／四"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "乎有以盡得之。先生深信纂集之指。今井"
+            },
+            {
+              "text": "口正求繕寫大字。以梓便於記誦。亦謂夫"
+            },
+            {
+              "text": "炎黃創醫方。我　朝大己貴命少彥名命"
+            },
+            {
+              "text": "定療病之方。莫不以仁爲先也。及中世周"
+            },
+            {
+              "text": "有醫師之政。今我　朝有典藥施藥之設。"
+            },
+            {
+              "text": "皆推本于神聖而廣其仁也。世衰道微善"
+            },
+            {
+              "text": "政漸廢。故草野間以醫爲産專重利。然醫"
+            },
+            {
+              "text": "之爲道。其任重矣。不可無志行。入門末卷"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／五"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "媢",
+          "candidates": [],
+          "note": "首欄「媢」、第六欄「李梴」、第七欄「掇」待核"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "李梴",
+          "candidates": [],
+          "note": "首欄「媢」、第六欄「李梴」、第七欄「掇」待核"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "掇",
+          "candidates": [],
+          "note": "首欄「媢」、第六欄「李梴」、第七欄「掇」待核"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "井口正求",
+          "candidates": [],
+          "note": "第二欄的「井口正求」跨欄與第三欄的神名待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p22",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00022_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "22"
+        ]
+      },
+      "file": "22.jpg",
+      "sha256": "77ee63ebba400e7ebaeb27c61abcaee3ab365c7942f4af54c7aeedf56bd6d3e5",
+      "bytes": 325625,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "有習醫規格。足以爲醫家之教戒也。故表"
+            },
+            {
+              "text": "章之以勸諸生。又通用古方詩括之爲篇"
+            },
+            {
+              "text": "取諸古方三百。此藥不執方。未始不本於"
+            },
+            {
+              "text": "方也。熟古人之方而淹貫之。以加減穿合"
+            },
+            {
+              "text": "摘變而通之。知此則處方不泥。隨時取中。"
+            },
+            {
+              "text": "其此之謂乎。故令岸江菴抄寫亦模印之。"
+            },
+            {
+              "text": "元和三年九月及入門板成。林道春爲作"
+            },
+            {
+              "text": "後序。稱仁厚矣。先生從筑前刺史黑田如"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／五"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "水赴鎭西。先生者如水之故人也。是以如"
+            },
+            {
+              "text": "水延先生爲入幕之上賓。今嗣長政亦禮"
+            },
+            {
+              "text": "遇焉。先生在筑紫。治驗甚多。刺史帳內掌"
+            },
+            {
+              "text": "鐵銃軍吏患冷疾。夏月常復衣圍爐。三年。"
+            },
+            {
+              "text": "自熾炭對之。火烈焦面。如似痂癩。先生診"
+            },
+            {
+              "text": "之曰。乃伏熱也。經曰。行水漬之。和其中外。"
+            },
+            {
+              "text": "徐嗣伯行之治房伯玉。冬月可治之。試今"
+            },
+            {
+              "text": "來治須急造槽。言訖而去。於是病家造槽。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／六"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 6,
+          "context": "岸江菴",
+          "candidates": [],
+          "note": "第六欄「岸江菴」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "熾",
+          "candidates": [],
+          "note": "第五欄「熾」「痂癩」待核"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "痂癩",
+          "candidates": [],
+          "note": "第五欄「熾」「痂癩」待核"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p23",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00023_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "23"
+        ]
+      },
+      "file": "23.jpg",
+      "sha256": "57c7108672fe9f121605763954beb31002da3f6ddd36124280f48773ff8c7f6c",
+      "bytes": 323123,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "親族相聚遲先生。先生至命湛新汲水於"
+            },
+            {
+              "text": "槽中。令病人解衣浴之。病人寒慄咬牙將"
+            },
+            {
+              "text": "解帶。親族囁嚅曰。大冷之人入水則氣絕"
+            },
+            {
+              "text": "矣。病人聽其言不能解帶。時先生怒目叱"
+            },
+            {
+              "text": "曰。汝必戰陳無勇。今見洵洵而恐怖者何"
+            },
+            {
+              "text": "哉。邦君施汝以五百石者爲不知人乎。病"
+            },
+            {
+              "text": "人有怒色曰。我當入水。先生曰可也。病人"
+            },
+            {
+              "text": "澡浴先生令累灌水於頂可半時。先生曰。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／六"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "善當出矣。親族問病人。病人曰。溫和不可"
+            },
+            {
+              "text": "言。不欲出水。先生以藥調理二十日復原。"
+            },
+            {
+              "text": "自此冬月猶單衫輕健倍前。博多津富民"
+            },
+            {
+              "text": "患熱病悶亂。先生洒水。自初昏至曉而解。"
+            },
+            {
+              "text": "蓋依吳氏水漬法變而通之者也。活法多"
+            },
+            {
+              "text": "類此。去行難波隱於大江岸置家塾教授。"
+            },
+            {
+              "text": "療病無逸。於是學醫者輻湊遠近病人求"
+            },
+            {
+              "text": "醫治。丈夫冬月行長途六七日歸家。壯熱"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／七"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "湛",
+          "candidates": [],
+          "note": "「湛」「洵洵」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "洵洵",
+          "candidates": [],
+          "note": "「湛」「洵洵」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "洒",
+          "candidates": [],
+          "note": "「洒」已按字形錄出，「二十」待核"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "二十",
+          "candidates": [],
+          "note": "「洒」已按字形錄出，「二十」待核"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p24",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00024_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "24"
+        ]
+      },
+      "file": "24.jpg",
+      "sha256": "5ce214c76227e44f086c6e080c2fff53fc4c62780523995ce84eb042287f1896",
+      "bytes": 321839,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "疼痛手足攣急惡寒頭疼胸膈喘滿大便"
+            },
+            {
+              "text": "不通小便澀滯。邀先生診脉緊有力。先生"
+            },
+            {
+              "text": "曰。正傷寒也。用麻黃湯四貼。汗出而諸症"
+            },
+            {
+              "text": "稍解。煩燥欲得飲水。先生以爲仲景曰。太"
+            },
+            {
+              "text": "陽病發汗後。大汗出胃中乾。煩燥不得眠"
+            },
+            {
+              "text": "欲得飲水者令胃氣和則愈。故用升麻葛"
+            },
+            {
+              "text": "根湯以解胃熱煩渴止頭痛微咳。加川芎"
+            },
+            {
+              "text": "桔梗而瘳。男子二十七八歲患傷寒十四"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／七"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "日。他醫用藥表症漸去。日晡潮熱甚。耳聾"
+            },
+            {
+              "text": "齒黑讝語。每熱目赤不食大便不通。八日"
+            },
+            {
+              "text": "手足冷脉之數。先生以爲半表半裏之經。"
+            },
+            {
+              "text": "或因發汗利小便轉屬陽明。故見少陽陽"
+            },
+            {
+              "text": "明症。有潮熱又不能食者。胃中今且有燥"
+            },
+            {
+              "text": "屎。經曰。四支皆稟氣於胃。以胃有滯故手"
+            },
+            {
+              "text": "足冷。用大柴胡湯七貼。大便通而熱少退。"
+            },
+            {
+              "text": "手足煖燥渴心煩。乃大柴胡湯合白虎湯"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／八"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "訓點另查"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "讝",
+          "candidates": [],
+          "note": "「讝」「煖」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "煖",
+          "candidates": [],
+          "note": "「讝」「煖」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p25",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00025_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "25"
+        ]
+      },
+      "file": "25.jpg",
+      "sha256": "b57ea1abfe2ec5639f2c8cd1366a2e7a873d32bdc04d02dc786a58e05df73443",
+      "bytes": 321907,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "主之。五日病症悉除。如平人。惟晡時微熱"
+            },
+            {
+              "text": "頰赤微咳渴。大便順脉浮。用大正氣散治"
+            },
+            {
+              "text": "脾胃怯弱。而諸症自愈。備之前州商人清"
+            },
+            {
+              "text": "晨溏泄三年矣。諸醫以爲脾腎氣虛治之"
+            },
+            {
+              "text": "無寸効。先生米飲用車前子。未半載此進"
+            },
+            {
+              "text": "歐陽公之方。今模倣之。其間時問曰無異"
+            },
+            {
+              "text": "不。答曰無。後病人曰瀉自若而唇乾熱中。"
+            },
+            {
+              "text": "先生曰。病乃可已。其意以時珍曰車前子"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／八"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "利水道而不動氣。水道利則清濁分。而穀"
+            },
+            {
+              "text": "藏自止矣。今水能利。故有燥熱生。是以知"
+            },
+            {
+              "text": "其將已也。遂亦用五味異功散。舊疾始痊。"
+            },
+            {
+              "text": "清水溫竹郎伯。歲垂半百。平生嗜酒。暑月"
+            },
+            {
+              "text": "必瀉血。先生以爲飲酒中風心熱瀉血。乃"
+            },
+            {
+              "text": "命鵜飼海安用通聖散。一二日遍身發斑。"
+            },
+            {
+              "text": "時令溫竹煎生地黃代茶進之。以治斑及"
+            },
+            {
+              "text": "瀉血滋陰補腎。後口中血出舌大腫滿口。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／九"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 6,
+          "context": "時問",
+          "candidates": [],
+          "note": "第六、七欄句讀及「時問」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "瀉／溺",
+          "candidates": [],
+          "note": "第五欄及末欄「瀉／溺」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p26",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00026_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "26"
+        ]
+      },
+      "file": "26.jpg",
+      "sha256": "b421a83a15b46cbb3726a7203aa74079793d5ac0f63da50dc9423ff1c7b65399",
+      "bytes": 333380,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "先生急用飛礬散捻糟茄自然汁調服。翼"
+            },
+            {
+              "text": "日血止腫漸消。先生告溫竹曰。此方見古"
+            },
+            {
+              "text": "今醫統。我嘗撿方書記良方。有理致者應"
+            },
+            {
+              "text": "病便用。無苟出新意廢舊學也。自此宿疾"
+            },
+            {
+              "text": "永不再發。男子五十餘歲水瀉晝夜六七"
+            },
+            {
+              "text": "行。不食微渴身體虛弱。五六月未止。脉細"
+            },
+            {
+              "text": "濡一息四至。先生以爲脾胃受濕所致。經"
+            },
+            {
+              "text": "曰。濕勝則濡寫。是也。須用四君子湯加訶"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／九"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "子肉豆蔻與之。二貼瀉止。而熱出腹痛咽"
+            },
+            {
+              "text": "乾不食小便澀。得之陰虛陽暴絕。用四君"
+            },
+            {
+              "text": "子湯爲灸氣海而諸症盡愈。男子年邁耳"
+            },
+            {
+              "text": "順。質壯無病。一日赴宴酒食過度。困臥及"
+            },
+            {
+              "text": "日出不起。口鼻痰涎如解鋸響。人問安否"
+            },
+            {
+              "text": "無對。先生以爲仲景曰。宿食在上脘當吐"
+            },
+            {
+              "text": "之。乃用瓜蒂散。快吐痰數升。氣自正。言語"
+            },
+            {
+              "text": "而蹇澀。頭痛痰涎猶盛。右手足不能運動。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "捻糟茄",
+          "candidates": [],
+          "note": "「捻糟茄」「翼」「撿」「寫」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "翼",
+          "candidates": [],
+          "note": "「捻糟茄」「翼」「撿」「寫」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "撿",
+          "candidates": [],
+          "note": "「捻糟茄」「翼」「撿」「寫」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "寫",
+          "candidates": [],
+          "note": "「捻糟茄」「翼」「撿」「寫」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "爲灸",
+          "candidates": [],
+          "note": "「爲灸」「年邁」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "年邁",
+          "candidates": [],
+          "note": "「爲灸」「年邁」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p27",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00027_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "27"
+        ]
+      },
+      "file": "27.jpg",
+      "sha256": "611d85c244b11b38f9ab6ccdaafc0f30609acb40f7ee4eb08b6c6350cad06310",
+      "bytes": 334992,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "脉緩。用烏藥順氣散疎通氣道而收全功。"
+            },
+            {
+              "text": "丹之後州刺史源高廣。患疥癬。三年發痒。"
+            },
+            {
+              "text": "浴熱湯則快。故數浴。一日瘡忽平。數日遍"
+            },
+            {
+              "text": "身盡腫氣息奄奄。諸醫治之而無効。迎先"
+            },
+            {
+              "text": "生求治。先生以爲肝挾相火來凌脾土。土"
+            },
+            {
+              "text": "屬濕主肌肉。濕熱鬱蓄于肌膚。故發爲瘡"
+            },
+            {
+              "text": "疥。經所謂濕氣害人皮肉筋骨是也。熱湯"
+            },
+            {
+              "text": "刧之。瘡雖愈而遂爲腫成喘。濕熱內盛故"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "也。用平胃散加茯苓三貼而頓愈。高廣饗"
+            },
+            {
+              "text": "先生問曰。凡診手脉而知周身內外吉凶"
+            },
+            {
+              "text": "者何謂也。先生對曰。說見素問難經。我近"
+            },
+            {
+              "text": "取譬言之。手脉猶江戶也。方今江戶者萬"
+            },
+            {
+              "text": "姓之所朝宗也。可以知天下事。手者百脉"
+            },
+            {
+              "text": "之所大會也。以此知周身事。高廣甚驩。男"
+            },
+            {
+              "text": "子四十有餘載癰疽發背。及浹日疼痛甚。"
+            },
+            {
+              "text": "紅色二便調和能飲食。脉之弦急。先生以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十一"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "丹之後州",
+          "candidates": [],
+          "note": "「丹之後州」「刧」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "刧",
+          "candidates": [],
+          "note": "「丹之後州」「刧」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "驩",
+          "candidates": [],
+          "note": "「驩」「浹」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "浹",
+          "candidates": [],
+          "note": "「驩」「浹」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p28",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00028_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "28"
+        ]
+      },
+      "file": "28.jpg",
+      "sha256": "39bc1437a71cee459d15a2b8c1ffea7b73ea9a99d389961975a5927effb1845c",
+      "bytes": 335653,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "爲純陽焮赤潰歛易。且便利調匀能飲食。"
+            },
+            {
+              "text": "五善惟多病微邪淺。乃用內托十宣散。疼"
+            },
+            {
+              "text": "痛頓減。瘡潰而痊。和州本多家臣大橋氏"
+            },
+            {
+              "text": "久患癰疽。自膏肓至十三椎而潰爛。吐下"
+            },
+            {
+              "text": "不止。諸醫用補劑不應。迎先生請治。先生"
+            },
+            {
+              "text": "投不換金正氣散發表和中。一貼而不吐"
+            },
+            {
+              "text": "累用十五貼而安。會天陰則頭痛。與都梁"
+            },
+            {
+              "text": "丸而差。父老年踰下壽。忽頭痛如破。諸醫"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十一"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "用數劑無驗便結食減手足厥冷。近火及"
+            },
+            {
+              "text": "暖則痛益甚。項強筋大脉浮緊。先生以爲"
+            },
+            {
+              "text": "風寒表熱之症。用九味羌活湯而遂愈。藝"
+            },
+            {
+              "text": "州人歸自江戶。中路發噦。五六日不止。日"
+            },
+            {
+              "text": "漸甚。及至難波勢正危急。先生用分心氣"
+            },
+            {
+              "text": "飲末以開心胸鬱氣。噦立止如神。彼人謝"
+            },
+            {
+              "text": "曰。大急之患。非明公不能救。紀州使君從"
+            },
+            {
+              "text": "二位亞相源賴宣公。面黃腹脹。漸至羸憊。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十二"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "焮",
+          "candidates": [],
+          "note": "「焮」「歛」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 1,
+          "context": "歛",
+          "candidates": [],
+          "note": "「焮」「歛」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "噦",
+          "candidates": [],
+          "note": "「噦」「末以」「羸憊」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "末以",
+          "candidates": [],
+          "note": "「噦」「末以」「羸憊」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "羸憊",
+          "candidates": [],
+          "note": "「噦」「末以」「羸憊」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p29",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00029_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "29"
+        ]
+      },
+      "file": "29.jpg",
+      "sha256": "fa482f556e401781d6290bda2d334368c4a8d999cccb2a05dcd48ee1e4a96df3",
+      "bytes": 345554,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "諸醫用藥弗効。因盛車從邀先生。先生以"
+            },
+            {
+              "text": "應聘往診之。脉虛而無力。告公曰。中焦之"
+            },
+            {
+              "text": "濕痰也。若用蒼朮膏則奏効矣。蒼朮多生"
+            },
+            {
+              "text": "金峯及明府管內諸山。須用新者。今府中"
+            },
+            {
+              "text": "諸醫煎之。亦顧左右曰。亞相威重海內。故"
+            },
+            {
+              "text": "諸醫恐已不能治而數引他醫。後至者以"
+            },
+            {
+              "text": "爲前醫不能治殆重病也。疑惑以爲危不"
+            },
+            {
+              "text": "爲療之。如此則何翅謁三醫往萬。至其□"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十二"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "化不可爲度也。須煎蒼朮膏急進之。家臣"
+            },
+            {
+              "text": "三浦氏聞而是之。公修合蒼朮膏。侵早臨"
+            },
+            {
+              "text": "臥服之而遂瘳。公大悅。其後公浴鹽之原"
+            },
+            {
+              "text": "山觀武州道經難波。延先生于旅邸問以"
+            },
+            {
+              "text": "攝生術。寄惠金帛。而亦招海安列從容之"
+            },
+            {
+              "text": "職。羽林次將兼周防守源重宗。尹京兆時。"
+            },
+            {
+              "text": "次子重形。弱冠病嘔吐食不下。形體尪羸"
+            },
+            {
+              "text": "甚危殆。徧延諸醫治皆罔効。重宗隆禮幣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十三"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 8,
+          "context": "□",
+          "candidates": [],
+          "note": "此直欄有未定字。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "何翅謁三醫往萬",
+          "candidates": [],
+          "note": "末欄「何翅謁三醫往萬」及字尾墨淡待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "鹽之原山",
+          "candidates": [],
+          "note": "「鹽之原山」「寄惠」「尪羸」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "寄惠",
+          "candidates": [],
+          "note": "「鹽之原山」「寄惠」「尪羸」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "尪羸",
+          "candidates": [],
+          "note": "「鹽之原山」「寄惠」「尪羸」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p30",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00030_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "30"
+        ]
+      },
+      "file": "30.jpg",
+      "sha256": "87a19f0f165a8fbfa9b53fa76c64b844ef0947bfa01082d2455ab0888de712cf",
+      "bytes": 333662,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "速先生。先生至在門。重宗出迎。先生入重"
+            },
+            {
+              "text": "形所臥之室。時方炎暑帷幙周密。病勢轉"
+            },
+            {
+              "text": "危。先生悉令撤幔開窗引清氣。重形漸覺"
+            },
+            {
+              "text": "清爽。先生熟診視以爲子才所謂飲食自"
+            },
+            {
+              "text": "倍者。脾胃乃傷。是也。煎香砂平胃散。頻沾"
+            },
+            {
+              "text": "其脣。小堀遠江守政一。在側問其故。先生"
+            },
+            {
+              "text": "曰。嘔吐之證不可率爾用藥。而不用則病"
+            },
+            {
+              "text": "亦不愈矣。夫脣爲飛門。脾氣之所出也。今"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十三"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "令藥氣自飛門動轉通于賁門以順脾胃"
+            },
+            {
+              "text": "氣。而後進飲食則遂能受之乎。故以藥沾"
+            },
+            {
+              "text": "脣。政一嘉歎不止。席上會進東寺甜瓜。先"
+            },
+            {
+              "text": "生自割瓜喫之。謂重形曰。不喫之否。重形"
+            },
+            {
+              "text": "曰。我素嗜甜瓜。而諸醫禁之。先生與喫之。"
+            },
+            {
+              "text": "重形嘗之便覺襟抱豁然。服藥不吐遂能"
+            },
+            {
+              "text": "飲食如初。連進數劑。漸次尋愈。都下盛稱"
+            },
+            {
+              "text": "之。重宗大喜厚報之。亦命良冶鑄茶鼎以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十四"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "子才",
+          "candidates": [],
+          "note": "「子才」「悉」「頻沾」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "悉",
+          "candidates": [],
+          "note": "「子才」「悉」「頻沾」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "頻沾",
+          "candidates": [],
+          "note": "「子才」「悉」「頻沾」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "生",
+          "candidates": [],
+          "note": "第四欄上「生」墨淡可讀，「襟抱」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "襟抱",
+          "candidates": [],
+          "note": "第四欄上「生」墨淡可讀，「襟抱」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p31",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00031_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "31"
+        ]
+      },
+      "file": "31.jpg",
+      "sha256": "59a1d903dbcb9764dbb1a81e0fab5f24547db38cf99f2967b5db6ca93105d37c",
+      "bytes": 332219,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "贈之。鼎形如瓜。鑄見宜二字。蓋感其子因"
+            },
+            {
+              "text": "先生救療而嘗甜瓜有起死回生之効。名"
+            },
+            {
+              "text": "物示不忘也。鼎在古林立菴許。重宗待接"
+            },
+            {
+              "text": "優款。先生入洛則開宴延京師名醫。以先"
+            },
+            {
+              "text": "生爲上客。弟子向井保菴必從之。匠作少"
+            },
+            {
+              "text": "尹藤一玄。形體肥白苦上氣滯痰。脉虛弱"
+            },
+            {
+              "text": "寸微大尺小。先生以爲脾胃虛而挾痰火。"
+            },
+            {
+              "text": "用大調中湯乃瘥。長澤道壽精于醫。土州"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十四"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "之產也。故世稱土佐道壽。始仕武門。後隱"
+            },
+            {
+              "text": "大內山村園。病臥於床。子弟將迎他醫治"
+            },
+            {
+              "text": "之。道壽曰。我久有采薪之憂。大漸朝不慮"
+            },
+            {
+              "text": "夕。然汝等厚我豈傷志乎。若迎他醫則今"
+            },
+            {
+              "text": "之世非見宜而誰哉。於是告急先生。先生"
+            },
+            {
+              "text": "少在洛與道壽同筆硯。遂問之。執手話舊"
+            },
+            {
+              "text": "且曰。乃自治無以加之。命矣夫夫斯人也。"
+            },
+            {
+              "text": "子弟需藥。先生爲與藥訣去。二子之行時"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十五"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "名物示",
+          "candidates": [],
+          "note": "「名物示」是否有小字須回圖查核"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "大內山村園",
+          "candidates": [],
+          "note": "「大內山村園」「夫夫」「二子」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "夫夫",
+          "candidates": [],
+          "note": "「大內山村園」「夫夫」「二子」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "二子",
+          "candidates": [],
+          "note": "「大內山村園」「夫夫」「二子」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p32",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00032_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "32"
+        ]
+      },
+      "file": "32.jpg",
+      "sha256": "15c08ed74a366c34aa44100d67f976a5a0e851da01892122c110b7d4c3694966",
+      "bytes": 332143,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "人以爲美談。住吉神主朝散大夫行親衛"
+            },
+            {
+              "text": "校尉津守國貞。年三十一。得飲食所傷之"
+            },
+            {
+              "text": "疾。日久求治於先生。先生往診形脉出告"
+            },
+            {
+              "text": "家人曰。夫津守氏者攝州神別。田裳見宿"
+            },
+            {
+              "text": "袮之後。貴勝世家也。何自輕成痼疾乎。予"
+            },
+            {
+              "text": "之所慎齊戰疾。左右何無匡救。其必不起"
+            },
+            {
+              "text": "矣。果如其言。壯年婦質甚盛實。分娩後及"
+            },
+            {
+              "text": "八月舉身走痛。忽小腹有塊。按之則痛甚。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十五"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "欲絕。小便澀大便順。脉濇有力。先生以爲"
+            },
+            {
+              "text": "越人曰。痛者爲實。震亨治一婢小腹當中"
+            },
+            {
+              "text": "有氣塊。兩手脉皆濇。前言可以爲徵矣。遂"
+            },
+            {
+              "text": "與復元通氣散一貼而痛盡止。甚有神効。"
+            },
+            {
+              "text": "次用平胃散一貼煖胃開餘塊。時淤露來。"
+            },
+            {
+              "text": "腹脹不食脉浮。東垣李氏有諸腹脹大皆"
+            },
+            {
+              "text": "屬於熱論。即此症也。故投清胃散治陽明"
+            },
+            {
+              "text": "經熱而病如失。室女年既笄病傷寒服發"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十六"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "田裳見宿袮",
+          "candidates": [],
+          "note": "第四、五欄人名「田裳見宿袮」和「齊」待核"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "齊",
+          "candidates": [],
+          "note": "第四、五欄人名「田裳見宿袮」和「齊」待核"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "開餘塊",
+          "candidates": [],
+          "note": "第五欄「開餘塊」「淤露」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "淤露",
+          "candidates": [],
+          "note": "第五欄「開餘塊」「淤露」待核，另有訓點"
+        }
+      ],
+      "observations": "右面：朱點集中第七欄下段「分娩後及」及第八欄。左面：朱點集中第四欄及第五欄上段至「貼」。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p33",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00033_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "33"
+        ]
+      },
+      "file": "33.jpg",
+      "sha256": "a25e3e57510185ef8f27fe2c3787e0ad55980f31018ce215c6c1a91ba07ad4f9",
+      "bytes": 337743,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "散藥數劑弗効。既而昏沈不省人事。請先"
+            },
+            {
+              "text": "生視之。先生曰。陰躁之症也。若用寒藥則"
+            },
+            {
+              "text": "死矣。遂以蘓合香圓。如彈子大石羔爲衣。"
+            },
+            {
+              "text": "令酒磨服。服之忽發躁。父母傍徨告之。先"
+            },
+            {
+              "text": "生徐曰。所與丸藥皆用否。亦爲用酒幾盞。"
+            },
+            {
+              "text": "曰。用半丸與一盃酒。先生曰。力未徹。猶用"
+            },
+            {
+              "text": "所餘丸及酒一碗。病家守其法用之。時大"
+            },
+            {
+              "text": "熟睡喚而不醒。至明日食時。及覺精神奕"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十六"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "慧。先生令海安診視。且囑之曰。看看必有"
+            },
+            {
+              "text": "瘡瘍。海安回稟曰。脉和身無瘡。居二日而"
+            },
+            {
+              "text": "頭發瘍。先生乃令針之。血出而痊。婦人四"
+            },
+            {
+              "text": "十有餘患崩漏二年。渾身浮腫。便瀉似水。"
+            },
+            {
+              "text": "不欲鹽味。若得鹽淹物則湯洗而食。脉浮"
+            },
+            {
+              "text": "大數。先生以爲經曰。鹽者勝血。血脫不堪"
+            },
+            {
+              "text": "鹽味寧非理之必然乎。夫血脫益氣陽生"
+            },
+            {
+              "text": "陰長之義也。故用補中益氣湯倍當歸加"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十七"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "石羔",
+          "candidates": [],
+          "note": "「石羔」「力未徹」「奕」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "力未徹",
+          "candidates": [],
+          "note": "「石羔」「力未徹」「奕」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "奕",
+          "candidates": [],
+          "note": "「石羔」「力未徹」「奕」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "淹",
+          "candidates": [],
+          "note": "「淹」待核，另有訓點"
+        }
+      ],
+      "observations": "左面：「頭發瘍」不依通行術語改認。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p34",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00034_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "34"
+        ]
+      },
+      "file": "34.jpg",
+      "sha256": "51b5ebddaf4b5368147a45fdec60b0123a23b7c03be1e1a91b53459b1a68f435",
+      "bytes": 337648,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "破故紙即愈。婦人二十七八歲。春末夏初"
+            },
+            {
+              "text": "惡寒食少。如此二年矣。後加艾灼。寒熱往"
+            },
+            {
+              "text": "來咳嗽痰血自汗寢汗月事不通消瘦不"
+            },
+            {
+              "text": "食。脉沈數。醫不能治。先生以爲此症金匱"
+            },
+            {
+              "text": "所謂春夏劇秋冬瘥者也。龔居中曰。凡癆"
+            },
+            {
+              "text": "火之證始于陰虛。法當滋補。葛氏昔擅專"
+            },
+            {
+              "text": "門。所遺諸方未有不主參茋者。乃用黃茋"
+            },
+            {
+              "text": "鱉甲湯減半夏。亦與灸四花六穴及足三"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十七"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "里而瘉。女子年踰嫁。三四歲以來。面色乍"
+            },
+            {
+              "text": "紫乍紅乍黃。飲食或進或不進。言語不接"
+            },
+            {
+              "text": "設言語則心悸。歌唱無時。他人聞之愀然。"
+            },
+            {
+              "text": "脉緊數。先生以爲血虛火盛。用八味逍遙"
+            },
+            {
+              "text": "散而瘥。尼崎城主朝散大夫藤氏鐵女發"
+            },
+            {
+              "text": "狂疾。衆以爲鬼魅所憑。延北嶺僧徒加持。"
+            },
+            {
+              "text": "病者大詬人不可近。僧徒逡巡而却。執病"
+            },
+            {
+              "text": "者于一室。求救於先生。先生沈潛診視。以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十八"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 6,
+          "context": "擅專",
+          "candidates": [],
+          "note": "第六欄「擅專」待核，「茋」字形照錄待看"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "茋",
+          "candidates": [],
+          "note": "第六欄「擅專」待核，「茋」字形照錄待看"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "愀",
+          "candidates": [],
+          "note": "「愀」「藤氏鐵女」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "藤氏鐵女",
+          "candidates": [],
+          "note": "「愀」「藤氏鐵女」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p35",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00035_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "35"
+        ]
+      },
+      "file": "35.jpg",
+      "sha256": "c4e125b8587e7423c7d8609dde39ec503026b6031835e0e67e2c56d3f35377ad",
+      "bytes": 335308,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "爲鬱症也。髮色有異。斷之血迸出。即令家"
+            },
+            {
+              "text": "臣開城門。咎戈放病者。女遽起繞城中奔"
+            },
+            {
+              "text": "走百匝。勞而輾跜。先生強酒大醉。覺而晏"
+            },
+            {
+              "text": "然復常。更與香藿散數貼留之而去。服之"
+            },
+            {
+              "text": "全安。寶鏡院公主坐療疾。　後水尾天皇"
+            },
+            {
+              "text": "聞先生之名招診視之。先生不俟駕行矣。"
+            },
+            {
+              "text": "診脉甚弦數。奏曰。獨陰無陽。全類溫瘧。昔"
+            },
+            {
+              "text": "齊褚氏達性懷各異治。今當用此法。而病"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十八"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "勢失時藥不可及矣。言應　明旨。　天皇"
+            },
+            {
+              "text": "曰。良醫也。厚齎而歸之。　東福門院宮人"
+            },
+            {
+              "text": "權大納言疾病。有　命召先生。投劑用藥"
+            },
+            {
+              "text": "食少進。奄曰藥有神。先生固辭歸難波。先"
+            },
+            {
+              "text": "生嘗戒二三子曰。今之醫多見富貴人疾"
+            },
+            {
+              "text": "在骨髓而不走。意在圖利。又恐壞名反取"
+            },
+            {
+              "text": "誚於人。汝等慎之。今於宮中再觀其行果"
+            },
+            {
+              "text": "有桃茢之儀人以信之。小兒四五歲吐瀉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十九"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "咎戈",
+          "candidates": [],
+          "note": "「咎戈」「輾跜」「療疾」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "輾跜",
+          "candidates": [],
+          "note": "「咎戈」「輾跜」「療疾」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 5,
+          "context": "療疾",
+          "candidates": [],
+          "note": "「咎戈」「輾跜」「療疾」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "奄",
+          "candidates": [],
+          "note": "第四欄「奄」及第八欄「茢」待核"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "茢",
+          "candidates": [],
+          "note": "第四欄「奄」及第八欄「茢」待核"
+        }
+      ],
+      "observations": "左面：朱點在第五欄「今」以下及第六欄上至「利」附近。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p36",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00036_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "36"
+        ]
+      },
+      "file": "36.jpg",
+      "sha256": "10b5eff562278cbfdd56818cde27a4a5716e478e08b77ce24e4f1780b995904f",
+      "bytes": 334062,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "及四箇月不止。醫用數方漸止。然因所飲"
+            },
+            {
+              "text": "食若吐若瀉腹膨脹四肢厥冷面黃神懶"
+            },
+            {
+              "text": "微滑。或食或不食。脉絕致死。衆以爲難。父"
+            },
+            {
+              "text": "母累求治。先生以爲脾胃虛寒試用益黃"
+            },
+            {
+              "text": "散。須臾即甦。菟道星野氏之子腹大氣逆"
+            },
+            {
+              "text": "妨悶。呼吸引痛不已。先生以爲經所謂息"
+            },
+            {
+              "text": "積者也。令山田見了合宣明論方白朮丸。"
+            },
+            {
+              "text": "用之而遂愈。嬰童五六歲出痘及十八日"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／十九"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "吐下黑血。痘色紫周身大熱。諸醫不能治。"
+            },
+            {
+              "text": "一家待斃。先生以爲熱毒攻胃。袁氏所謂"
+            },
+            {
+              "text": "身中熱烙焦紫無紅活色是也。用黃連解"
+            },
+            {
+              "text": "毒湯以降火滋腎水。吐血便紅皆止而活。"
+            },
+            {
+              "text": "仙石越前守政俊鎭大坂城暴發熱。諸士"
+            },
+            {
+              "text": "大懼。衆醫以爲傷寒。先生曰。痘症也。瘡出"
+            },
+            {
+              "text": "則安矣。人或不信。既而痘出無恙。城中始"
+            },
+            {
+              "text": "信先生之賢於人遠矣。先生嘗告弟子曰。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 5,
+          "context": "菟道",
+          "candidates": [],
+          "note": "「菟道」「見了」待核，另有訓點"
+        },
+        {
+          "side": "right",
+          "column": 7,
+          "context": "見了",
+          "candidates": [],
+          "note": "「菟道」「見了」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "烙",
+          "candidates": [],
+          "note": "「烙」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p37",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00037_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "37"
+        ]
+      },
+      "file": "37.jpg",
+      "sha256": "51393a4cb79dceb3d3a6ec3ff3416a015492cfdd4db0ccb736c94c3df929bfd7",
+      "bytes": 338732,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "痘症類傷寒。故南豐李氏論類傷寒名義。"
+            },
+            {
+              "text": "貴人多至壯年不患痘。非胡人獨不出痘"
+            },
+            {
+              "text": "也。是以忽類傷寒症。如未患痘則雜之證"
+            },
+            {
+              "text": "候。須從痘症初熱條以治之。清江聶氏曰。"
+            },
+            {
+              "text": "治痘與治傷寒大不同也。蓋痘瘡以裏爲"
+            },
+            {
+              "text": "根以表爲基。輕用傷寒家清解之劑一虛"
+            },
+            {
+              "text": "其表。至七八日後漿必不行。其瘡枯焦癢"
+            },
+            {
+              "text": "塌而死矣。管機著保赤全書。不知此理而"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "首以發表解表立說。豈不誤哉。學者必記"
+            },
+            {
+              "text": "之。僧二十餘歲。時時小便不通。發狂不省"
+            },
+            {
+              "text": "人事。及小便通而平復如常。脉浮數。先生"
+            },
+            {
+              "text": "倪思之。此症心經蘊熱進火府丹以理寧"
+            },
+            {
+              "text": "心乃脫然如故。紫野澤菴和尚在泉南高"
+            },
+            {
+              "text": "先生之風。數過顧訪清談并求醫。南京寺"
+            },
+            {
+              "text": "逸善法師來謁先生問養生術。先生診脉"
+            },
+            {
+              "text": "以爲用心過度。以致心血不足。令服補心"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十一"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 4,
+          "context": "清江聶氏",
+          "candidates": [],
+          "note": "「清江聶氏」「管機」待核"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "管機",
+          "candidates": [],
+          "note": "「清江聶氏」「管機」待核"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "倪",
+          "candidates": [],
+          "note": "「倪」「理寧」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "理寧",
+          "candidates": [],
+          "note": "「倪」「理寧」待核，另有訓點"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p38",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00038_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "38"
+        ]
+      },
+      "file": "38.jpg",
+      "sha256": "713364394105697fa2c2b0ed75c98d49acdcc5ff72116d67a3b1cae38b26e9a4",
+      "bytes": 341319,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "丹。逸善久在長崎。且通和語。從先生之問"
+            },
+            {
+              "text": "能談明朝近世事。其他遠人登龍門者多"
+            },
+            {
+              "text": "矣。先生之活人决死生率類此。然頗有不"
+            },
+            {
+              "text": "盡述者。諸州邦君士大夫厚幣迎候者絡"
+            },
+            {
+              "text": "驛不絕。然賦性廉介樂于施濟。故分所受"
+            },
+            {
+              "text": "金幣以賑貧困者。所奉身惟安淡泊。所居"
+            },
+            {
+              "text": "蕭然不蔽風日。小民貧僧病求治必施米"
+            },
+            {
+              "text": "鹽與藥不責其報。先生錯綜諸科其治大"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十一"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "人小兒婦人之病與藥用灸炳亦時以毫"
+            },
+            {
+              "text": "鍼刺榮俞。自不針則令人刺之。用心本草"
+            },
+            {
+              "text": "多識草木鳥獸之名。黑田氏差使者問西"
+            },
+            {
+              "text": "洋所產一藥功能。先生據本草辨之。且告"
+            },
+            {
+              "text": "曰。近世蠻貊來互市。我國人好異珍遠物。"
+            },
+            {
+              "text": "異域之藥多不可知者。夫千金之子不垂"
+            },
+            {
+              "text": "堂。富貴人豈容易嘗異物哉。其悟人以正"
+            },
+            {
+              "text": "大之論如此矣。重宗英才邁人雄德禮賢。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十二"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "從先生之問",
+          "candidates": [],
+          "note": "「從先生之問」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 1,
+          "context": "炳",
+          "candidates": [],
+          "note": "「炳」「榮俞」「蠻貊」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "榮俞",
+          "candidates": [],
+          "note": "「炳」「榮俞」「蠻貊」待核，另有訓點"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "蠻貊",
+          "candidates": [],
+          "note": "「炳」「榮俞」「蠻貊」待核，另有訓點"
+        }
+      ],
+      "observations": "左面：朱點集中第六及第七欄上段。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 39,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p39",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00039_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "39"
+        ]
+      },
+      "file": "39.jpg",
+      "sha256": "842dada41bcbc35feaaf27b1261a07ba253bc544f7eff2b0055647d105dc340b",
+      "bytes": 341727,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "故知先生之爲人尤加敬焉。重宗依國政"
+            },
+            {
+              "text": "每出難波。不宿朱門。必寄寓先生。自搢紳"
+            },
+            {
+              "text": "武夫至於桑門百姓無不畏嚴重宗者。先"
+            },
+            {
+              "text": "生之風不承子陵。重宗采邑在攝州山田。"
+            },
+            {
+              "text": "與難波相近。政事之暇屢至于山田。一時"
+            },
+            {
+              "text": "招先生留飲。先生假寐。重宗曰老人易寒。"
+            },
+            {
+              "text": "爲衣之。鈴木氏在座談吏務觀之。退謂人"
+            },
+            {
+              "text": "曰正溫匪直人也。不圖重宗敬之如此矣。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十二"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "重宗嘗欲奏先生與爲法印。而先生辭曰。"
+            },
+            {
+              "text": "後世醫者多叙僧位。醫之經僧位名實大"
+            },
+            {
+              "text": "乖。遂不就。識者高之。先生嘗觀舊事本紀"
+            },
+            {
+              "text": "古事記日本書紀信　神國之冠萬國。讀"
+            },
+            {
+              "text": "本朝文粹。感古多文人。令門人俊秀者勸"
+            },
+            {
+              "text": "以學之。又令外孫宗旦門人清水溫竹成"
+            },
+            {
+              "text": "瀨正伯的野益菴等遣京就儒門。謄寫文"
+            },
+            {
+              "text": "選菅家和訓。每年求新渡儒書醫籍閱之。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十三"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 40,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p40",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00040_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "40"
+        ]
+      },
+      "file": "40.jpg",
+      "sha256": "05a0b34757ca1dad86acc9ae20a3041c0176d6433f61cee9b7d0e9c47fcc3659",
+      "bytes": 341678,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "亦令門人視之。其所藏書豈五車而已哉。"
+            },
+            {
+              "text": "可謂好古敏以求之者也。慶安元年纂兩"
+            },
+            {
+              "text": "經首篇。王氏補註。史崧馬氏本草綱目等"
+            },
+            {
+              "text": "序題之曰纂記抄。欲令人知其綱領。而後"
+            },
+            {
+              "text": "學全書。實爲初學啓蒙醫家切要也。其導"
+            },
+            {
+              "text": "人之心至深矣。令益菴書之。鏤梓。講習堂"
+            },
+            {
+              "text": "昌三爲作跋。又募書坊刊行穆氏閱古隨"
+            },
+            {
+              "text": "筆二卷。其書披覽百氏。取其詞可爲法意"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十三"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "可爲訓。隨手紀錄積久成帙者也。乃捐資"
+            },
+            {
+              "text": "以廣其傳。梓成。令古林正越投曾我丹波"
+            },
+            {
+              "text": "守古祐。松平隼人正重繼小濱戶部負外"
+            },
+            {
+              "text": "郎嘉隆。各一部。皆悅而受之。重繼逢正越"
+            },
+            {
+              "text": "問先生安否。曰爲我謝見惠良書。公事餘"
+            },
+            {
+              "text": "暇讀之。凡難波諸僚有病則必託先生。屬"
+            },
+            {
+              "text": "縣有不能治之證皆來就先生。先生鏤刻"
+            },
+            {
+              "text": "書以其板與書肆。剖劂氏浴仁澤者不少"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十四"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "史崧馬氏",
+          "candidates": [],
+          "note": "「史崧馬氏」字面與斷句待核"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "剖劂",
+          "candidates": [],
+          "note": "「剖劂」待核"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 41,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p41",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00041_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "41"
+        ]
+      },
+      "file": "41.jpg",
+      "sha256": "190502645e9a2699fd3b2256802dd2359a350e2dd2acebf5872f1ebb1e33dce6",
+      "bytes": 343759,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "矣。門人有好學者則先生喜而好之。儒者"
+            },
+            {
+              "text": "小出永菴自京來從先生學岐黃術。講書"
+            },
+            {
+              "text": "敏捷。而苦闕市。先生爲與之十三經注疏。"
+            },
+            {
+              "text": "曲直瀨道節以正純之族能醫。有脚疾自"
+            },
+            {
+              "text": "嘆貧困。先生以舊好友愛爲言源羽林次"
+            },
+            {
+              "text": "將祿仕。資其勤苦。道節感先生德義敬之。"
+            },
+            {
+              "text": "甚至時王文潔評林新渡。小字勞老眼。道"
+            },
+            {
+              "text": "節爲手書作大字以投先生。先生每講難"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十四"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "經必參考之。好木瓜也。先生敎人不倦。而"
+            },
+            {
+              "text": "諸生甚衆。故擇有才學者管學舍覺後覺。"
+            },
+            {
+              "text": "猶勸學院學頭。以梅菴爲始。其後數人相"
+            },
+            {
+              "text": "繼。保菴海安見了見桃是也。亦學頭之外。"
+            },
+            {
+              "text": "令俊秀者講書。三千之徒受先生之敎誨。"
+            },
+            {
+              "text": "亦依此等人指南各自當知之。先生至於"
+            },
+            {
+              "text": "他邦診攝郡牧。清水溫竹尾上溫悅向井"
+            },
+            {
+              "text": "見端等數從之。故此等人能知其治證神"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十五"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "苦闕市",
+          "candidates": [],
+          "note": "「苦闕市」待核"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "知之",
+          "candidates": [],
+          "note": "「知之」「診攝郡牧」待核"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "診攝郡牧",
+          "candidates": [],
+          "note": "「知之」「診攝郡牧」待核"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 42,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p42",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00042_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "42"
+        ]
+      },
+      "file": "42.jpg",
+      "sha256": "779df6dfde041440817ad39a06278e1f5606bf71db79fe1fd06584f53b7e1c6f",
+      "bytes": 340214,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "效之蹟。日日有求醫者來。必令弟子年壯"
+            },
+            {
+              "text": "有才者診視脈狀。回稟先生。聽之曰用某"
+            },
+            {
+              "text": "藥治之。諄諄然耳提。於是多大悟者。又比"
+            },
+            {
+              "text": "年舉自己所治病人證候自書之。普示弟"
+            },
+            {
+              "text": "子令議藥方。而後試合隨治驗方否論辨"
+            },
+            {
+              "text": "異同。說方意精詳。蓋俾人知所法也。大有"
+            },
+            {
+              "text": "便於臨證主方矣。及老境無有此事。承應"
+            },
+            {
+              "text": "三年三月爲諸生舉十人病候以示之。諸"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十五"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "弟子沈潛反覆各議藥方。時有一男子病"
+            },
+            {
+              "text": "案施治六日。每二日改方加減。不可一例"
+            },
+            {
+              "text": "而推之。不可一途而取之。紀州諸生木村"
+            },
+            {
+              "text": "見立觀之。論方能中。先生乃令古林見桃"
+            },
+            {
+              "text": "與方藁于見立。先生平日欲作人。有一善"
+            },
+            {
+              "text": "則揚之以示衆。因此學者大進。門人等嘗"
+            },
+            {
+              "text": "錄諸方藁萃以成編。名曰主方集。隨所示"
+            },
+            {
+              "text": "而錄之。故不分病門。一本有分病門者。寛"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十六"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 43,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p43",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00043_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "43"
+        ]
+      },
+      "file": "43.jpg",
+      "sha256": "b74c3f7d6631a6f6556d67541bfa54773e40513660aceefbdfdbdb3626fdcfc3",
+      "bytes": 337024,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "永十七年七月班鳩玄貞爲之。自便于觀"
+            },
+            {
+              "text": "覽也。寛永以後主方集甚多矣。先生晚年"
+            },
+            {
+              "text": "取四書大全及蒙引五經大全性理大全"
+            },
+            {
+              "text": "小學近思錄伊洛淵源錄理學類編等書。"
+            },
+            {
+              "text": "置座右閱之不止。士大夫招請辭謝而不"
+            },
+            {
+              "text": "赴。若有累請則令弟子往治之。所著醫書"
+            },
+            {
+              "text": "若干。大抵抄出陳言纂要爲宗。日記中揀"
+            },
+            {
+              "text": "方三卷爲子道柏述之。假名雲林神穀三"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十六"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "卷。寛永十二年仲秋武州之行避霖雨止"
+            },
+            {
+              "text": "于品川蘭若時。取神穀所譯也。附之以藥"
+            },
+            {
+              "text": "性歌。諸病主藥。正入回世三卷參考正傳"
+            },
+            {
+              "text": "入門回春濟世全書集經驗諸方。綱目攝"
+            },
+            {
+              "text": "要方二卷攝樓氏綱目之方。拔萃正溫方"
+            },
+            {
+              "text": "五卷抄出徐氏醫統方。其他速効方。外科"
+            },
+            {
+              "text": "單方。假名脉書及灸書。食品類製劑記辨"
+            },
+            {
+              "text": "藥集。醫統粹皆行于世。又內經註證發微"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十七"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "主藥",
+          "candidates": [],
+          "note": "「主藥」藥字墨著不均，待核"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 44,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p44",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00044_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "44"
+        ]
+      },
+      "file": "44.jpg",
+      "sha256": "ba73c847ab6286b28c9254bc7bbf27533e5251aa90ddb168208ee20b0d36c6fa",
+      "bytes": 335874,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "難經本義本草序例。入門大字纂記鈔等"
+            },
+            {
+              "text": "註義記之上方。門人等書寫以傳之。青囊"
+            },
+            {
+              "text": "真方二卷晚年所集也。立菴受先生顧命"
+            },
+            {
+              "text": "刊于梓。明曆三年歲次丁酉九月十有七"
+            },
+            {
+              "text": "日丁巳。先生端坐泊然而逝。歲七十有九。"
+            },
+            {
+              "text": "豫告見桃曰。昔丹溪先生享年七十八。今"
+            },
+            {
+              "text": "我增一歲。既躋壽域。葬儀欲據家禮然從"
+            },
+            {
+              "text": "國俗而可也。立菴宗玄諸弟子等相議。即"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十七"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "日葬于禪林寺。先生英氣發外嚴而質直。"
+            },
+            {
+              "text": "一見者知其不凡。富貴之人加禮容薄夫"
+            },
+            {
+              "text": "懦夫欽其風。兒童走卒無不知其名者。及"
+            },
+            {
+              "text": "其卒也。人多悼之。源重繼其他干城等遣"
+            },
+            {
+              "text": "使者吊之。平良甫嘗傾蓋而語。於是作詩"
+            },
+            {
+              "text": "二首。哭其詩有探丸起死太倉公之句。良"
+            },
+            {
+              "text": "甫者右僕射信長公孫也。寸雲子謂余曰。"
+            },
+            {
+              "text": "我觀宜翁言行卓異。養浩然之氣人乎。先"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十八"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "容薄夫",
+          "candidates": [],
+          "note": "「容薄夫」待核"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 45,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p45",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00045_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "45"
+        ]
+      },
+      "file": "45.jpg",
+      "sha256": "d5b44fd6efff358e25f077b07c971d026f5ccd0fade91b296a986f0f0777f7f5",
+      "bytes": 335853,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "生娶佐谷氏。生三子二女一男。長女薩子"
+            },
+            {
+              "text": "妻玄詁。詁者備之前州人。延壽院玄朔之"
+            },
+            {
+              "text": "徒也。寛永十四年薄命登死。中男道柏號"
+            },
+            {
+              "text": "樹庭。從林道春學儒而明醫。寛永十七年"
+            },
+            {
+              "text": "先卒歲二十六。先生情之所鍾在茲。此時"
+            },
+            {
+              "text": "燒青囊錦以爲無貼厥也。錦字經一炬。先"
+            },
+            {
+              "text": "生暗誦禁方修合以濟世。得其人而後傳"
+            },
+            {
+              "text": "與無妄泄之。故至于今門徒神秘之。少女"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十八"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "多萬早世。玄詁有二子。一女一男。薩子之"
+            },
+            {
+              "text": "所生也。女奈圖嫁立菴生女布玖。先生卒"
+            },
+            {
+              "text": "後門人多敬立菴。立菴建先生祠堂以奉"
+            },
+            {
+              "text": "之。堂額者隱元禪師所書也。立菴嘗治禪"
+            },
+            {
+              "text": "師疾。是以禪師爲書之。男宗旦克家業爲"
+            },
+            {
+              "text": "人聰惠。重宗眷顧不少。相携適江戶。獲識"
+            },
+            {
+              "text": "執於酒井讚州松平豆州。二州牧謂宗旦"
+            },
+            {
+              "text": "曰見宜臨機應變能治疾。厥聲籍甚于富"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十九"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "玄詁",
+          "candidates": [],
+          "note": "「玄詁」「登死」「無貼厥」待核"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "登死",
+          "candidates": [],
+          "note": "「玄詁」「登死」「無貼厥」待核"
+        },
+        {
+          "side": "right",
+          "column": 6,
+          "context": "無貼厥",
+          "candidates": [],
+          "note": "「玄詁」「登死」「無貼厥」待核"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "獲識執於",
+          "candidates": [],
+          "note": "「獲識執於」與「富」待核"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "富",
+          "candidates": [],
+          "note": "「獲識執於」與「富」待核"
+        }
+      ],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 46,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p46",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00046_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "46"
+        ]
+      },
+      "file": "46.jpg",
+      "sha256": "1e41de7b8229ce88c11f76f06a2f6bce6d348e825886f2c18a8e9752d14bd8ae",
+      "bytes": 330678,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "春秋。能興祖業乎。慶安三年九月十九日"
+            },
+            {
+              "text": "短命死矣。獨布玖身命無恙。先生尤鍾愛。"
+            },
+            {
+              "text": "後嫁宗玄。生正貞。正貞篤實詳敏。奉揚祖"
+            },
+            {
+              "text": "業。設家塾孳孳不已。先生弟子甚衆。蕃衍"
+            },
+            {
+              "text": "天下。凡束脩已上三千餘人云。或仕諸州。"
+            },
+            {
+              "text": "或在野。良工不乏。然不遑枚舉。余少而從"
+            },
+            {
+              "text": "外祖妣之族新田氏命遊先生之門。一心"
+            },
+            {
+              "text": "寺天譽上人者。新田氏之族也。先生尊夫"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／二十九"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "人佐谷氏者。上人之檀越也。故上人與先"
+            },
+            {
+              "text": "生善。慶安二年八月十六日。上人携余謁"
+            },
+            {
+              "text": "先生。時年十有三。其後先生嘉余勤學命"
+            },
+            {
+              "text": "講醫籍。自試善之。欣然設饗會高弟等歎"
+            },
+            {
+              "text": "賞。時歲十七。先生亦告余曰。子益學儒及"
+            },
+            {
+              "text": "我　朝記錄則可也。先生別館在二條城"
+            },
+            {
+              "text": "上重宗之所與也。遠游之際先生令余寓"
+            },
+            {
+              "text": "此。先生卒後余亦入洛行醫術。亦爲幼學"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／三十"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 47,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p47",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00047_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "47"
+        ]
+      },
+      "file": "47.jpg",
+      "sha256": "31ad7d4540cd01a1c3458cf54a011e0825087a3bbcb5a1835e06c18a137573dc",
+      "bytes": 251026,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "text-boundary",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "講儒書醫籍　本朝記錄。嗚呼大賢君子"
+            },
+            {
+              "text": "盛德鴻術傳之良不易易也。然余恐其久"
+            },
+            {
+              "text": "而蕪殁。故取衆共所見聞不自量而爲傳"
+            },
+            {
+              "text": "天和癸亥十月甲子濡毫於東都冷泉",
+              "role": "date-of-composition"
+            },
+            {
+              "text": "寶曆九年卯十一月求板",
+              "role": "printing-notice"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "color": "black",
+              "location": "版心",
+              "text": "見宜翁／三十"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "蕪殁",
+          "candidates": [],
+          "note": "右頁第三欄「蕪殁」字形待核，原刷訓點待細記"
+        }
+      ],
+      "observations": "右面：部分貼頁緣。左面：襯紙無正文，見淡紅館章痕。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
+    },
+    {
+      "image": 48,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p48",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00048_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "48"
+        ]
+      },
+      "file": "48.jpg",
+      "sha256": "cda787ca427ea3113384bc4ae18b65aa724b62c00f7d9f3953ad660e42e0d2d3",
+      "bytes": 254165,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "repeated-final-leaf",
+      "duplicate_of_image": 47,
+      "include_in_primary_reading_order": false,
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [],
+          "role": "repeated-final-leaf"
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：重拍影像47右面，同五欄及相同版框。右面：讀序沿用47右。左面：重拍時翻開襯紙下角，露出紅色印字及墨號，非正文。左面：燈光、角度略異，可定位來源。"
+    },
+    {
+      "image": 49,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00002935/canvas/p49",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00002935%2FRB00002935_00049_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "49"
+        ]
+      },
+      "file": "49.jpg",
+      "sha256": "0bd7b8a9cf1f6b9394639009101c9396375ba6c8cfb7109d7fd198b043cc58ed",
+      "bytes": 195909,
+      "native_width": 6016,
+      "native_height": 4016,
+      "content_role": "out-of-scope-binding",
+      "state": "out-of-scope-binding"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this transcription, please cite the dataset version and the source
+  copy.
+title: '見宜翁醫按（1759 年求板，京都大學 シ/124） / Kengiō ian [Medical accounts of Master Kengiō]:
+  Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyoto-rb00002935-kengio-ian
+keywords:
+- 見宜翁醫按
+- 松下見林
+- 古林見宜
+- 江戶醫學史
+- 醫家傳記
+- 病例
+- 醫學教育史
+- 富士川文庫
+- Kengiō ian
+- Matsushita Kenrin
+- medical biography
+- medical cases
+- kanbun
