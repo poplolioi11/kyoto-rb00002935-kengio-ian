@@ -4,7 +4,7 @@ message: If you use this transcription, please cite the dataset version and the 
 title: '見宜翁醫按（1759 年求板，京都大學 シ/124） / Kengiō ian [Medical accounts of Master Kengiō]:
   Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

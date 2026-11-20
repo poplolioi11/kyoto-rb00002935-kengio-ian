@@ -16,11 +16,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00002935/manifest.json",
     "manifest_sha256": "31e614603a9eba10addd5a5e2871e57668a140ff302761dc35afcc8071e6a1d3",
     "record_id": "RB00002935",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "見宜翁醫按（1759 年求板，京都大學 シ/124） / Kengiō ian [Medical accounts of Master Kengiō]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -314,7 +314,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "text-boundary",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -395,7 +395,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -526,7 +526,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -657,7 +657,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -795,7 +795,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -919,7 +919,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1036,7 +1036,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1160,7 +1160,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1277,7 +1277,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1332,7 +1332,7 @@
               "text": "清水溫竹郎伯。歲垂半百。平生嗜酒。暑月"
             },
             {
-              "text": "必瀉血。先生以爲飲酒中風心熱瀉血。乃"
+              "text": "必溺血。先生以爲飲酒中風心熱溺血。乃"
             },
             {
               "text": "命鵜飼海安用通聖散。一二日遍身發斑。"
@@ -1341,7 +1341,7 @@
               "text": "時令溫竹煎生地黃代茶進之。以治斑及"
             },
             {
-              "text": "瀉血滋陰補腎。後口中血出舌大腫滿口。"
+              "text": "溺血滋陰補腎。後口中血出舌大腫滿口。"
             }
           ],
           "extras": [
@@ -1361,13 +1361,6 @@
           "context": "時問",
           "candidates": [],
           "note": "第六、七欄句讀及「時問」待核，另有訓點"
-        },
-        {
-          "side": "left",
-          "column": null,
-          "context": "瀉／溺",
-          "candidates": [],
-          "note": "第五欄及末欄「瀉／溺」待核，另有訓點"
         }
       ],
       "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
@@ -1387,7 +1380,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1525,7 +1518,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1605,13 +1598,6 @@
       "issues": [
         {
           "side": "right",
-          "column": 2,
-          "context": "丹之後州",
-          "candidates": [],
-          "note": "「丹之後州」「刧」待核，另有訓點"
-        },
-        {
-          "side": "right",
           "column": 8,
           "context": "刧",
           "candidates": [],
@@ -1649,7 +1635,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1780,7 +1766,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1807,7 +1793,7 @@
               "text": "爲前醫不能治殆重病也。疑惑以爲危不"
             },
             {
-              "text": "爲療之。如此則何翅謁三醫往萬。至其□"
+              "text": "爲療之。如此則何翅諺三醫往萬。至其□"
             }
           ],
           "extras": [
@@ -1911,7 +1897,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2042,7 +2028,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2166,7 +2152,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2190,10 +2176,109 @@
               "text": "之所慎齊戰疾。左右何無匡救。其必不起"
             },
             {
-              "text": "矣。果如其言。壯年婦質甚盛實。分娩後及"
+              "text": "矣。果如其言。壯年婦質甚盛實。分娩後及",
+              "marks": [
+                {
+                  "after": 16,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 17,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 18,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 19,
+                  "mark": "丶",
+                  "color": "red"
+                }
+              ]
             },
             {
-              "text": "八月舉身走痛。忽小腹有塊。按之則痛甚。"
+              "text": "八月舉身走痛。忽小腹有塊。按之則痛甚。",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 2,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 3,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 4,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 5,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 6,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 8,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 9,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 10,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 11,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 12,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 14,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 15,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 16,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 17,
+                  "mark": "丶",
+                  "color": "red"
+                }
+              ]
             }
           ],
           "extras": [
@@ -2221,7 +2306,44 @@
               "text": "與復元通氣散一貼而痛盡止。甚有神効。"
             },
             {
-              "text": "次用平胃散一貼煖胃開餘塊。時淤露來。"
+              "text": "次用平胃散一貼煖胃開餘塊。時淤露來。",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 2,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 3,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 4,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 5,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 6,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 7,
+                  "mark": "丶",
+                  "color": "red"
+                }
+              ]
             },
             {
               "text": "腹脹不食脉浮。東垣李氏有諸腹脹大皆"
@@ -2261,13 +2383,6 @@
         {
           "side": "left",
           "column": 5,
-          "context": "開餘塊",
-          "candidates": [],
-          "note": "第五欄「開餘塊」「淤露」待核，另有訓點"
-        },
-        {
-          "side": "left",
-          "column": 5,
           "context": "淤露",
           "candidates": [],
           "note": "第五欄「開餘塊」「淤露」待核，另有訓點"
@@ -2290,7 +2405,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2370,31 +2485,10 @@
       "issues": [
         {
           "side": "right",
-          "column": 3,
-          "context": "石羔",
-          "candidates": [],
-          "note": "「石羔」「力未徹」「奕」待核，另有訓點"
-        },
-        {
-          "side": "right",
-          "column": 6,
-          "context": "力未徹",
-          "candidates": [],
-          "note": "「石羔」「力未徹」「奕」待核，另有訓點"
-        },
-        {
-          "side": "right",
           "column": 8,
           "context": "奕",
           "candidates": [],
           "note": "「石羔」「力未徹」「奕」待核，另有訓點"
-        },
-        {
-          "side": "left",
-          "column": 5,
-          "context": "淹",
-          "candidates": [],
-          "note": "「淹」待核，另有訓點"
         }
       ],
       "observations": "左面：「頭發瘍」不依通行術語改認。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
@@ -2414,7 +2508,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2538,7 +2632,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2550,7 +2644,7 @@
               "text": "臣開城門。咎戈放病者。女遽起繞城中奔"
             },
             {
-              "text": "走百匝。勞而輾跜。先生強酒大醉。覺而晏"
+              "text": "走百匝。勞而輾踣。先生強酒大醉。覺而晏"
             },
             {
               "text": "然復常。更與香藿散數貼留之而去。服之"
@@ -2590,13 +2684,112 @@
               "text": "權大納言疾病。有　命召先生。投劑用藥"
             },
             {
-              "text": "食少進。奄曰藥有神。先生固辭歸難波。先"
+              "text": "食少進。僉曰藥有神。先生固辭歸難波。先"
             },
             {
-              "text": "生嘗戒二三子曰。今之醫多見富貴人疾"
+              "text": "生嘗戒二三子曰。今之醫多見富貴人疾",
+              "marks": [
+                {
+                  "after": 9,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 10,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 11,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 12,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 13,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 14,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 15,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 16,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 17,
+                  "mark": "丶",
+                  "color": "red"
+                }
+              ]
             },
             {
-              "text": "在骨髓而不走。意在圖利。又恐壞名反取"
+              "text": "在骨髓而不走。意在圖利。又恐壞名反取",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 2,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 3,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 4,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 5,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 6,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 8,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 9,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 10,
+                  "mark": "丶",
+                  "color": "red"
+                },
+                {
+                  "after": 11,
+                  "mark": "丶",
+                  "color": "red"
+                }
+              ]
             },
             {
               "text": "誚於人。汝等慎之。今於宮中再觀其行果"
@@ -2620,20 +2813,6 @@
           "side": "right",
           "column": 2,
           "context": "咎戈",
-          "candidates": [],
-          "note": "「咎戈」「輾跜」「療疾」待核，另有訓點"
-        },
-        {
-          "side": "right",
-          "column": 3,
-          "context": "輾跜",
-          "candidates": [],
-          "note": "「咎戈」「輾跜」「療疾」待核，另有訓點"
-        },
-        {
-          "side": "right",
-          "column": 5,
-          "context": "療疾",
           "candidates": [],
           "note": "「咎戈」「輾跜」「療疾」待核，另有訓點"
         },
@@ -2669,7 +2848,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2786,7 +2965,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2910,7 +3089,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2953,7 +3132,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "人小兒婦人之病與藥用灸炳亦時以毫"
+              "text": "人小兒婦人之病與藥用灸焫亦時以毫"
             },
             {
               "text": "鍼刺榮俞。自不針則令人刺之。用心本草"
@@ -3004,13 +3183,6 @@
         },
         {
           "side": "left",
-          "column": 2,
-          "context": "榮俞",
-          "candidates": [],
-          "note": "「炳」「榮俞」「蠻貊」待核，另有訓點"
-        },
-        {
-          "side": "left",
           "column": 5,
           "context": "蠻貊",
           "candidates": [],
@@ -3034,7 +3206,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3049,7 +3221,7 @@
               "text": "武夫至於桑門百姓無不畏嚴重宗者。先"
             },
             {
-              "text": "生之風不承子陵。重宗采邑在攝州山田。"
+              "text": "生之風不忝子陵。重宗采邑在攝州山田。"
             },
             {
               "text": "與難波相近。政事之暇屢至于山田。一時"
@@ -3129,7 +3301,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3239,7 +3411,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3356,7 +3528,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3451,7 +3623,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3554,7 +3726,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3600,7 +3772,7 @@
               "text": "日葬于禪林寺。先生英氣發外嚴而質直。"
             },
             {
-              "text": "一見者知其不凡。富貴之人加禮容薄夫"
+              "text": "一見者知其不凡。富貴之人加禮容。薄夫"
             },
             {
               "text": "懦夫欽其風。兒童走卒無不知其名者。及"
@@ -3631,15 +3803,7 @@
           ]
         }
       ],
-      "issues": [
-        {
-          "side": "left",
-          "column": 2,
-          "context": "容薄夫",
-          "candidates": [],
-          "note": "「容薄夫」待核"
-        }
-      ],
+      "issues": [],
       "observations": "原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
     },
     {
@@ -3657,7 +3821,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3736,37 +3900,9 @@
       ],
       "issues": [
         {
-          "side": "right",
-          "column": 2,
-          "context": "玄詁",
-          "candidates": [],
-          "note": "「玄詁」「登死」「無貼厥」待核"
-        },
-        {
-          "side": "right",
-          "column": 3,
-          "context": "登死",
-          "candidates": [],
-          "note": "「玄詁」「登死」「無貼厥」待核"
-        },
-        {
-          "side": "right",
-          "column": 6,
-          "context": "無貼厥",
-          "candidates": [],
-          "note": "「玄詁」「登死」「無貼厥」待核"
-        },
-        {
           "side": "left",
           "column": null,
           "context": "獲識執於",
-          "candidates": [],
-          "note": "「獲識執於」與「富」待核"
-        },
-        {
-          "side": "left",
-          "column": 8,
-          "context": "富",
           "candidates": [],
           "note": "「獲識執於」與「富」待核"
         }
@@ -3788,7 +3924,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3883,7 +4019,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "text-boundary",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3921,15 +4057,7 @@
           "extras": []
         }
       ],
-      "issues": [
-        {
-          "side": "right",
-          "column": 3,
-          "context": "蕪殁",
-          "candidates": [],
-          "note": "右頁第三欄「蕪殁」字形待核，原刷訓點待細記"
-        }
-      ],
+      "issues": [],
       "observations": "右面：部分貼頁緣。左面：襯紙無正文，見淡紅館章痕。原刻圈點錄作句號；細小返點與片假名提供版面定位。。"
     },
     {
@@ -3949,7 +4077,7 @@
       "content_role": "repeated-final-leaf",
       "duplicate_of_image": 47,
       "include_in_primary_reading_order": false,
-      "state": "initial-read",
+      "state": "repeat-image-described",
       "sides": [
         {
           "side": "right",

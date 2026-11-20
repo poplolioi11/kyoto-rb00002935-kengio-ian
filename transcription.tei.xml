@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -940,7 +940,7 @@
               <seg type="diplomatic-text">清水溫竹郎伯。歲垂半百。平生嗜酒。暑月</seg>
             </ab>
             <ab type="column" n="5" xml:id="f25-l-c05">
-              <seg type="diplomatic-text">必瀉血。先生以爲飲酒中風心熱瀉血。乃</seg>
+              <seg type="diplomatic-text">必溺血。先生以爲飲酒中風心熱溺血。乃</seg>
             </ab>
             <ab type="column" n="6" xml:id="f25-l-c06">
               <seg type="diplomatic-text">命鵜飼海安用通聖散。一二日遍身發斑。</seg>
@@ -949,7 +949,7 @@
               <seg type="diplomatic-text">時令溫竹煎生地黃代茶進之。以治斑及</seg>
             </ab>
             <ab type="column" n="8" xml:id="f25-l-c08">
-              <seg type="diplomatic-text">瀉血滋陰補腎。後口中血出舌大腫滿口。</seg>
+              <seg type="diplomatic-text">溺血滋陰補腎。後口中血出舌大腫滿口。</seg>
             </ab>
             <ab type="page-feature" subtype="running-title">
               <label>版心</label>
@@ -961,10 +961,6 @@
             <ab type="transcription-issue" n="right:6">
               <quote>時問</quote>
               <note type="editorial">第六、七欄句讀及「時問」待核，另有訓點</note>
-            </ab>
-            <ab type="transcription-issue" n="left:None">
-              <quote>瀉／溺</quote>
-              <note type="editorial">第五欄及末欄「瀉／溺」待核，另有訓點</note>
             </ab>
           </div>
         </div>
@@ -1122,10 +1118,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">原刻圈點錄作句號；細小返點與片假名提供版面定位。。</ab>
-            <ab type="transcription-issue" n="right:2">
-              <quote>丹之後州</quote>
-              <note type="editorial">「丹之後州」「刧」待核，另有訓點</note>
-            </ab>
             <ab type="transcription-issue" n="right:8">
               <quote>刧</quote>
               <note type="editorial">「丹之後州」「刧」待核，另有訓點</note>
@@ -1251,7 +1243,7 @@
               <seg type="diplomatic-text">爲前醫不能治殆重病也。疑惑以爲危不</seg>
             </ab>
             <ab type="column" n="8" xml:id="f29-r-c08">
-              <seg type="diplomatic-text">爲療之。如此則何翅謁三醫往萬。至其□</seg>
+              <seg type="diplomatic-text">爲療之。如此則何翅諺三醫往萬。至其□</seg>
             </ab>
             <ab type="page-feature" subtype="running-title">
               <label>版心</label>
@@ -1503,9 +1495,28 @@
             </ab>
             <ab type="column" n="7" xml:id="f32-r-c07">
               <seg type="diplomatic-text">矣。果如其言。壯年婦質甚盛實。分娩後及</seg>
+              <note type="original-mark" n="16" rend="red">丶</note>
+              <note type="original-mark" n="17" rend="red">丶</note>
+              <note type="original-mark" n="18" rend="red">丶</note>
+              <note type="original-mark" n="19" rend="red">丶</note>
             </ab>
             <ab type="column" n="8" xml:id="f32-r-c08">
               <seg type="diplomatic-text">八月舉身走痛。忽小腹有塊。按之則痛甚。</seg>
+              <note type="original-mark" n="1" rend="red">丶</note>
+              <note type="original-mark" n="2" rend="red">丶</note>
+              <note type="original-mark" n="3" rend="red">丶</note>
+              <note type="original-mark" n="4" rend="red">丶</note>
+              <note type="original-mark" n="5" rend="red">丶</note>
+              <note type="original-mark" n="6" rend="red">丶</note>
+              <note type="original-mark" n="8" rend="red">丶</note>
+              <note type="original-mark" n="9" rend="red">丶</note>
+              <note type="original-mark" n="10" rend="red">丶</note>
+              <note type="original-mark" n="11" rend="red">丶</note>
+              <note type="original-mark" n="12" rend="red">丶</note>
+              <note type="original-mark" n="14" rend="red">丶</note>
+              <note type="original-mark" n="15" rend="red">丶</note>
+              <note type="original-mark" n="16" rend="red">丶</note>
+              <note type="original-mark" n="17" rend="red">丶</note>
             </ab>
             <ab type="page-feature" subtype="running-title">
               <label>版心</label>
@@ -1527,6 +1538,13 @@
             </ab>
             <ab type="column" n="5" xml:id="f32-l-c05">
               <seg type="diplomatic-text">次用平胃散一貼煖胃開餘塊。時淤露來。</seg>
+              <note type="original-mark" n="1" rend="red">丶</note>
+              <note type="original-mark" n="2" rend="red">丶</note>
+              <note type="original-mark" n="3" rend="red">丶</note>
+              <note type="original-mark" n="4" rend="red">丶</note>
+              <note type="original-mark" n="5" rend="red">丶</note>
+              <note type="original-mark" n="6" rend="red">丶</note>
+              <note type="original-mark" n="7" rend="red">丶</note>
             </ab>
             <ab type="column" n="6" xml:id="f32-l-c06">
               <seg type="diplomatic-text">腹脹不食脉浮。東垣李氏有諸腹脹大皆</seg>
@@ -1551,10 +1569,6 @@
             <ab type="transcription-issue" n="right:6">
               <quote>齊</quote>
               <note type="editorial">第四、五欄人名「田裳見宿袮」和「齊」待核</note>
-            </ab>
-            <ab type="transcription-issue" n="left:5">
-              <quote>開餘塊</quote>
-              <note type="editorial">第五欄「開餘塊」「淤露」待核，另有訓點</note>
             </ab>
             <ab type="transcription-issue" n="left:5">
               <quote>淤露</quote>
@@ -1626,21 +1640,9 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">左面：「頭發瘍」不依通行術語改認。原刻圈點錄作句號；細小返點與片假名提供版面定位。。</ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>石羔</quote>
-              <note type="editorial">「石羔」「力未徹」「奕」待核，另有訓點</note>
-            </ab>
-            <ab type="transcription-issue" n="right:6">
-              <quote>力未徹</quote>
-              <note type="editorial">「石羔」「力未徹」「奕」待核，另有訓點</note>
-            </ab>
             <ab type="transcription-issue" n="right:8">
               <quote>奕</quote>
               <note type="editorial">「石羔」「力未徹」「奕」待核，另有訓點</note>
-            </ab>
-            <ab type="transcription-issue" n="left:5">
-              <quote>淹</quote>
-              <note type="editorial">「淹」待核，另有訓點</note>
             </ab>
           </div>
         </div>
@@ -1736,7 +1738,7 @@
               <seg type="diplomatic-text">臣開城門。咎戈放病者。女遽起繞城中奔</seg>
             </ab>
             <ab type="column" n="3" xml:id="f35-r-c03">
-              <seg type="diplomatic-text">走百匝。勞而輾跜。先生強酒大醉。覺而晏</seg>
+              <seg type="diplomatic-text">走百匝。勞而輾踣。先生強酒大醉。覺而晏</seg>
             </ab>
             <ab type="column" n="4" xml:id="f35-r-c04">
               <seg type="diplomatic-text">然復常。更與香藿散數貼留之而去。服之</seg>
@@ -1769,13 +1771,32 @@
               <seg type="diplomatic-text">權大納言疾病。有　命召先生。投劑用藥</seg>
             </ab>
             <ab type="column" n="4" xml:id="f35-l-c04">
-              <seg type="diplomatic-text">食少進。奄曰藥有神。先生固辭歸難波。先</seg>
+              <seg type="diplomatic-text">食少進。僉曰藥有神。先生固辭歸難波。先</seg>
             </ab>
             <ab type="column" n="5" xml:id="f35-l-c05">
               <seg type="diplomatic-text">生嘗戒二三子曰。今之醫多見富貴人疾</seg>
+              <note type="original-mark" n="9" rend="red">丶</note>
+              <note type="original-mark" n="10" rend="red">丶</note>
+              <note type="original-mark" n="11" rend="red">丶</note>
+              <note type="original-mark" n="12" rend="red">丶</note>
+              <note type="original-mark" n="13" rend="red">丶</note>
+              <note type="original-mark" n="14" rend="red">丶</note>
+              <note type="original-mark" n="15" rend="red">丶</note>
+              <note type="original-mark" n="16" rend="red">丶</note>
+              <note type="original-mark" n="17" rend="red">丶</note>
             </ab>
             <ab type="column" n="6" xml:id="f35-l-c06">
               <seg type="diplomatic-text">在骨髓而不走。意在圖利。又恐壞名反取</seg>
+              <note type="original-mark" n="1" rend="red">丶</note>
+              <note type="original-mark" n="2" rend="red">丶</note>
+              <note type="original-mark" n="3" rend="red">丶</note>
+              <note type="original-mark" n="4" rend="red">丶</note>
+              <note type="original-mark" n="5" rend="red">丶</note>
+              <note type="original-mark" n="6" rend="red">丶</note>
+              <note type="original-mark" n="8" rend="red">丶</note>
+              <note type="original-mark" n="9" rend="red">丶</note>
+              <note type="original-mark" n="10" rend="red">丶</note>
+              <note type="original-mark" n="11" rend="red">丶</note>
             </ab>
             <ab type="column" n="7" xml:id="f35-l-c07">
               <seg type="diplomatic-text">誚於人。汝等慎之。今於宮中再觀其行果</seg>
@@ -1792,14 +1813,6 @@
             <ab type="layout">左面：朱點在第五欄「今」以下及第六欄上至「利」附近。原刻圈點錄作句號；細小返點與片假名提供版面定位。。</ab>
             <ab type="transcription-issue" n="right:2">
               <quote>咎戈</quote>
-              <note type="editorial">「咎戈」「輾跜」「療疾」待核，另有訓點</note>
-            </ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>輾跜</quote>
-              <note type="editorial">「咎戈」「輾跜」「療疾」待核，另有訓點</note>
-            </ab>
-            <ab type="transcription-issue" n="right:5">
-              <quote>療疾</quote>
               <note type="editorial">「咎戈」「輾跜」「療疾」待核，另有訓點</note>
             </ab>
             <ab type="transcription-issue" n="left:4">
@@ -2006,7 +2019,7 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f38-l-c01">
-              <seg type="diplomatic-text">人小兒婦人之病與藥用灸炳亦時以毫</seg>
+              <seg type="diplomatic-text">人小兒婦人之病與藥用灸焫亦時以毫</seg>
             </ab>
             <ab type="column" n="2" xml:id="f38-l-c02">
               <seg type="diplomatic-text">鍼刺榮俞。自不針則令人刺之。用心本草</seg>
@@ -2044,10 +2057,6 @@
               <quote>炳</quote>
               <note type="editorial">「炳」「榮俞」「蠻貊」待核，另有訓點</note>
             </ab>
-            <ab type="transcription-issue" n="left:2">
-              <quote>榮俞</quote>
-              <note type="editorial">「炳」「榮俞」「蠻貊」待核，另有訓點</note>
-            </ab>
             <ab type="transcription-issue" n="left:5">
               <quote>蠻貊</quote>
               <note type="editorial">「炳」「榮俞」「蠻貊」待核，另有訓點</note>
@@ -2067,7 +2076,7 @@
               <seg type="diplomatic-text">武夫至於桑門百姓無不畏嚴重宗者。先</seg>
             </ab>
             <ab type="column" n="4" xml:id="f39-r-c04">
-              <seg type="diplomatic-text">生之風不承子陵。重宗采邑在攝州山田。</seg>
+              <seg type="diplomatic-text">生之風不忝子陵。重宗采邑在攝州山田。</seg>
             </ab>
             <ab type="column" n="5" xml:id="f39-r-c05">
               <seg type="diplomatic-text">與難波相近。政事之暇屢至于山田。一時</seg>
@@ -2445,7 +2454,7 @@
               <seg type="diplomatic-text">日葬于禪林寺。先生英氣發外嚴而質直。</seg>
             </ab>
             <ab type="column" n="2" xml:id="f44-l-c02">
-              <seg type="diplomatic-text">一見者知其不凡。富貴之人加禮容薄夫</seg>
+              <seg type="diplomatic-text">一見者知其不凡。富貴之人加禮容。薄夫</seg>
             </ab>
             <ab type="column" n="3" xml:id="f44-l-c03">
               <seg type="diplomatic-text">懦夫欽其風。兒童走卒無不知其名者。及</seg>
@@ -2472,10 +2481,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">原刻圈點錄作句號；細小返點與片假名提供版面定位。。</ab>
-            <ab type="transcription-issue" n="left:2">
-              <quote>容薄夫</quote>
-              <note type="editorial">「容薄夫」待核</note>
-            </ab>
           </div>
         </div>
         <pb n="45" facs="#f45" />
@@ -2542,24 +2547,8 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">原刻圈點錄作句號；細小返點與片假名提供版面定位。。</ab>
-            <ab type="transcription-issue" n="right:2">
-              <quote>玄詁</quote>
-              <note type="editorial">「玄詁」「登死」「無貼厥」待核</note>
-            </ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>登死</quote>
-              <note type="editorial">「玄詁」「登死」「無貼厥」待核</note>
-            </ab>
-            <ab type="transcription-issue" n="right:6">
-              <quote>無貼厥</quote>
-              <note type="editorial">「玄詁」「登死」「無貼厥」待核</note>
-            </ab>
             <ab type="transcription-issue" n="left:None">
               <quote>獲識執於</quote>
-              <note type="editorial">「獲識執於」與「富」待核</note>
-            </ab>
-            <ab type="transcription-issue" n="left:8">
-              <quote>富</quote>
               <note type="editorial">「獲識執於」與「富」待核</note>
             </ab>
           </div>
@@ -2658,10 +2647,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：部分貼頁緣。左面：襯紙無正文，見淡紅館章痕。原刻圈點錄作句號；細小返點與片假名提供版面定位。。</ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>蕪殁</quote>
-              <note type="editorial">右頁第三欄「蕪殁」字形待核，原刷訓點待細記</note>
-            </ab>
           </div>
         </div>
         <pb n="48" facs="#f48" />

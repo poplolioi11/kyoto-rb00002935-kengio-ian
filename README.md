@@ -4,11 +4,11 @@
 
 Kengiō ian is Matsushita Kenrin’s Literary Chinese account of the Edo-period physician Furubayashi Kengi (Shōon). It recounts his family, individual consultations, medical teaching and book publication, including the use of written case histories in training. The colophon dates the composition to 1683 and records a notice about printing blocks in 1759. Kyoto University’s Fujikawa Collection holds this work with Li Ting’s Xiyi guige under shelfmark シ/124.
 
-## V0.1.0
+## V0.2.0
 
-本文自第 17 幅左面至第 47 幅右面，合計 31 幅、60 個書面。另列重拍第 48 幅和全冊 49 幅的原件定位。前編《習醫規格》只列影像定位。原刻小字訓點未逐符號轉錄。本版為 AI 輔助初錄，疑讀留有原圖定位。
+本文自第 17 幅左面至第 47 幅右面，合計 31 幅、60 個書面。另列重拍第 48 幅和全冊 49 幅的原件定位。前編《習醫規格》只列影像定位。原刻小字訓點未逐符號轉錄。比對未見初稿的本機 OCR 候選後，回圖裁定採用 9 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-The named work occupies 31 scans and 60 written page faces, from scan 17 left to 47 right. Scan 48 repeats the final leaf. The 49-canvas inventory identifies the bound companion work, Xiyi guige, and the covers. Printed Japanese reading marks are outside the character-level transcription. This is an AI-assisted initial transcription with uncertain readings referenced to the source.
+The named work occupies 31 scans and 60 written page faces, from scan 17 left to 47 right. Scan 48 repeats the final leaf. The 49-canvas inventory identifies the bound companion work, Xiyi guige, and the covers. Printed Japanese reading marks are outside the character-level transcription. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 9 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
